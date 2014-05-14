@@ -1,0 +1,11 @@
+site_name: MoNeT Toolbox Documentation
+pages:
+- [index.md, Home]
+- [about.md, About]
+theme: readthedocs
+repo_url: https://bitbucket.org/gastats/monet/
+docs_dir: 'docs'
+site_dir: 'site'
+use_directory_urls: true
+dev_addr: '127.0.0.1:8000'
+
