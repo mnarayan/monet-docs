@@ -3,7 +3,7 @@ pages:
 - [index.md, Home]
 - [about.md, About]
 theme: readthedocs
-repo_url: https://bitbucket.org/gastats/monet/
+repo_url: https://github.com/mnarayan/monet-docs/
 docs_dir: 'docs'
 site_dir: 'site'
 use_directory_urls: true
